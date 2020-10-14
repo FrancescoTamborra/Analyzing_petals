@@ -1,5 +1,5 @@
 # Analyzing_petals
-some basic data analysis on iris db
 
+Performing some basic data analysis on iris db
 
 https://nbviewer.jupyter.org/github/FrancescoTamborra/analyzing_petals/blob/master/main.ipynb
